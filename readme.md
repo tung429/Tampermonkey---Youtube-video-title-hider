@@ -1,8 +1,6 @@
 Little tool For your browser to hide youtube.com video title
 
-1. Get Tampermonkey
-
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW
+1. Get Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW
 
 2. Utilities >File > Import > Choose File (Youtube hidden title.user.js)
 
