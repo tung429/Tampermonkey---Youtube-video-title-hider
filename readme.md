@@ -1,6 +1,7 @@
 Little tool For your browser to hide youtube.com video title
 
-1. Get Tampermonkey
+1. 
+Get Tampermonkey
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW
 
 2. 
