@@ -4,8 +4,9 @@ Little tool For your browser to hide youtube.com video title
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW
 
 2. 
-3. Utilities >File > Import > Choose File
+Utilities >File > Import > Choose File
 
 
-3. test
+3. 
+test
 https://www.youtube.com/watch?v=8tyjJD65zws&ab_channel=Tampermonkey
